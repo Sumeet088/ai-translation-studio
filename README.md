@@ -93,7 +93,10 @@ translation-studio/
 │   └── main.py
 └── README.md
 
-⚙️ Setup Instructions
+ Language selection UI
+
+
+## Setup Instructions
 1) Clone the repository
 git clone https://github.com/Sumeet088/ai-translation-studio.git
 cd ai-translation-studio
@@ -183,4 +186,3 @@ Implemented
  Semantic retrieval with embeddings
  Gemini translation fallback
  Approval + save to TM
- Language selection UI
